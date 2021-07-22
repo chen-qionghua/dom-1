@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dom测试-1</title>
+    <style>.red {
+            background: red;
+        }
+</style>
+</head>
+
+<body>
+    <div id="test">
+        <div class="red">获取对应元素</div>
+    </div>
+</body>
+
+</html><script src="/index.HASH_REF_42412dc50fd44bf0205308ab01a1c8c0.js"></script>

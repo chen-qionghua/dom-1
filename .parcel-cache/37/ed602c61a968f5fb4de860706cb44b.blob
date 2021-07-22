@@ -1,0 +1,2 @@
+const div = dom.find('#test>.red');
+dom.style(div, 'color', 'red');
